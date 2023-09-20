@@ -1,0 +1,135 @@
+.cover{
+    background: #ffe5ec;
+    position: static;
+    width: 900px;
+    height: auto;
+}
+
+.cover img{
+    margin-left: 100px;
+    margin-top: 200px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 50%;
+}
+
+.name{
+    display: inline-block;
+    margin-left: 70px;
+    width: 320px;
+    height:auto;
+    position: relative;
+    top: -280px;
+    font-size: 120px;
+}
+
+.midname{
+    display: inline-block;
+    position: relative;
+    top: -500px;
+    right: -490px;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.lastname{
+    display: inline-block;
+    margin-bottom: 0;
+    position: relative;
+    top: -475px;
+    right: -510px;
+    font-size: 120px;
+    color: #00296B;
+}
+
+body{
+    background-color: #ffe5ec;
+    margin: 0px;
+    border: 0px;
+    max-width: 100%;
+}
+
+.obj{
+    display:block;
+    margin-top: 100px;
+    position: relative;
+    top: -480px;
+    right: -500px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Source Code Pro', monospace;
+    margin-bottom: -300px;
+}
+
+.education{
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: #ffe5ec;
+    position: relative;
+    height:auto;
+}
+
+.scc{
+    
+    display: inline;
+}
+
+.title{
+    margin-top:10px;
+    margin-left: 10px;
+    border: 5px solid;
+    text-align: center;
+    background: linear-gradient(#a2d2ff, white);
+}
+
+.college{
+    position: relative;
+    margin-left: 250px;
+    margin-top:-100px
+}
+
+.mmc{
+    padding-top: 100px;
+}
+
+.baes{
+    padding-top: 100px;
+    margin-left: 10px;
+    margin-bottom: 140px;
+}
+
+.education img{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.work, .skills{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.work img{
+    margin: 50px;
+}
+
+#s1, #s2, #s3, #s4, #s5{
+    text-align: center;
+    background-color: skyblue;
+    border: 5px solid black;
+    padding: 10px;
+    margin-left: 500px;
+    width: 30%;
+    border-radius: 49%;
+}
+
+.a1{
+    margin-left: 30px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.hobbies, .personal, .facts, .contact{
+    background-color: aliceblue;
+}
+ 
